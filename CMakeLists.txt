@@ -8,4 +8,5 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 
 add_subdirectory(01-strategy)
+add_subdirectory(02-factory)
 
